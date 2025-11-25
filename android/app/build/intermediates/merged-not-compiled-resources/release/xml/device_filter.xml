@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- RTL-SDR dongles -->
+    <usb-device vendor-id="0x0bda" product-id="0x2832" />
+    <usb-device vendor-id="0x0bda" product-id="0x2838" />
+
+    <!-- HackRF One -->
+    <usb-device vendor-id="0x1d50" product-id="0x6089" />
+
+    <!-- LimeSDR -->
+    <usb-device vendor-id="0x1d50" product-id="0x6108" />
+    <usb-device vendor-id="0x0403" product-id="0x601f" />
+
+    <!-- PlutoSDR -->
+    <usb-device vendor-id="0x0456" product-id="0xb673" />
+    <usb-device vendor-id="0x2fa2" product-id="0x5a02" />
+
+    <!-- YARD Stick One -->
+    <usb-device vendor-id="0x1d50" product-id="0x605b" />
+
+    <!-- Generic FTDI -->
+    <usb-device vendor-id="0x0403" product-id="0x6001" />
+    <usb-device vendor-id="0x0403" product-id="0x6010" />
+    <usb-device vendor-id="0x0403" product-id="0x6014" />
+
+    <!-- Silicon Labs CP210x -->
+    <usb-device vendor-id="0x10c4" product-id="0xea60" />
+
+    <!-- CH340 -->
+    <usb-device vendor-id="0x1a86" product-id="0x7523" />
+</resources>

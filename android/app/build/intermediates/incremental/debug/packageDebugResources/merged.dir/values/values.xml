@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UHF/VHF Mic</string>
+    <string name="app_version">1.0.0</string>
+    <string name="copyright">© 2024 Iwinosa Aigbokhaevbo. All Rights Reserved.</string>
+    <string name="developer">Iwinosa Aigbokhaevbo</string>
+    <style name="Theme.UHFVHFMic" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#1a237e</item>
+        <item name="android:navigationBarColor">#1a237e</item>
+    </style>
+</resources>
